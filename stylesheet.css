@@ -1,0 +1,32 @@
+
+body{
+    background-color:#fef4f4;
+    padding: 0;
+    
+}
+
+header{
+    position: relative;
+    background-color: #c9171e;
+    background-position: left top;
+    border-radius: 30px;
+}
+
+.header-item{
+    margin: 10px;
+}
+
+.library{
+    border-radius: 50px;
+    background-color: #82ae46;
+    margin: 50px;
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {  
+    font-size: 50px;
+}
